@@ -7,13 +7,14 @@ How to Run
 1. Clone the Repository
 
     git clone https://github.com/Register1-ops/KeyLogger.git
+   
     cd KeyLogger
 
-2. Install the Required Library
+3. Install the Required Library
 
     pip install pynput
 
-3. Run the Keylogger
+4. Run the Keylogger
 
     python keylogger.py
 
